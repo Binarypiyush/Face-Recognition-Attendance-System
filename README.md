@@ -35,11 +35,14 @@ A Python-based Face Recognition Attendance System using OpenCV and Tkinter GUI. 
 
 ## 📂 Folder Structure
 
-project/ │ ├── faces/ # Stored face images ├── attendance.csv # Attendance log file ├── users.json # Stores login credentials ├── smart_attendance.py # Main Python script └── README.md
+project/
+│
+├── faces/                 # Stored face images
+├── attendance.csv         # Attendance log file
+├── users.json             # Stores login credentials
+├── smart_attendance.py    # Main Python script
+└── README.md              # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
