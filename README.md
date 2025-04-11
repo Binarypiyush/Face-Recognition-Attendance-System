@@ -94,16 +94,6 @@ Name should only contain alphabetic characters and spaces
 
 ---
 
-## 🛠️ To-Do / Future Features
-Add database support (e.g., SQLite, Firebase)
-
-Face recognition using deep learning models (e.g., FaceNet)
-
-Multi-user login with roles (e.g., Admin, Teacher)
-
-Enhanced UI with animations and themes
-
----
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -114,5 +104,15 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is open-source and available under the MIT License.
 
 ---
+## MIT License
 
+Copyright (c) 2025 [Piyush]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+[...rest of license omitted for brevity, but you can copy the full version here: https://opensource.org/licenses/MIT]
+
+---
 
