@@ -53,10 +53,12 @@ project/
    git clone https://github.com/yourusername/smart-attendance-system.git
    cd smart-attendance-system
    
-Install dependencies:
+2. **Install dependencies:**
+   ```bash
 pip install opencv-python pandas fpdf tkcalendar
 
-Run the application:
+3. **Run the application:**
+   ```bash
 python smart_attendance.py
 
 ## 🔐 Default Admin Credentials
