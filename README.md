@@ -69,7 +69,7 @@ Password: password
 }
 ---
 
-🚀 How to Use
+## 🚀 How to Use
 Login with admin credentials
 
 Register Face: Enter name & UID (e.g., 24BCS0020) and capture face
@@ -79,13 +79,15 @@ Mark Attendance: Recognize faces through webcam and log attendance
 View Logs: Search by date or person
 
 Export attendance in Excel or PDF
+---
 
-✅ UID Format Rule
+## ✅ UID Format Rule
 UID should match the pattern like 24BCS0020 or 23BDM12534
 
 Name should only contain alphabetic characters and spaces
+---
 
-🛠️ To-Do / Future Features
+## 🛠️ To-Do / Future Features
 Add database support (e.g., SQLite, Firebase)
 
 Face recognition using deep learning models (e.g., FaceNet)
@@ -93,11 +95,14 @@ Face recognition using deep learning models (e.g., FaceNet)
 Multi-user login with roles (e.g., Admin, Teacher)
 
 Enhanced UI with animations and themes
+---
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+---
 
-📃 License
+##📃 License
 This project is open-source and available under the MIT License.
+---
 
 
