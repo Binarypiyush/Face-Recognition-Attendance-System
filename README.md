@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+Smart+Face+Recognition+Attendance+System+%F0%9F%94%8D;Built+using+OpenCV+%7C+Tkinter+%7C+Python+%7C+Face+Recognition+%F0%9F%A4%96" alt="Typing SVG">
+</p>
+
+---
+
 # Smart Attendance System 👁️‍🗨️✅
 
 A Python-based Face Recognition Attendance System using OpenCV and Tkinter GUI. This project allows users to register faces, recognize them through the webcam, and mark attendance, which can be exported in Excel or PDF format.
