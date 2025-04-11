@@ -63,6 +63,7 @@ project/
 
 ## 🔐 Default Admin Credentials
 Username: admin
+
 Password: password
 
 🔄 To change them, open users.json and update:
