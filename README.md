@@ -55,19 +55,17 @@ project/
    
 2. **Install dependencies:**
    ```bash
-pip install opencv-python pandas fpdf tkcalendar
+   pip install opencv-python pandas fpdf tkcalendar
 
 3. **Run the application:**
    ```bash
-python smart_attendance.py
+   python smart_attendance.py
 
 ## 🔐 Default Admin Credentials
 Username: admin
-
 Password: password
 
 🔄 To change them, open users.json and update:
-
 
 {
   "admin": "your_new_password"
